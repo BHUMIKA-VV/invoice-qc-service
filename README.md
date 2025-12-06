@@ -535,4 +535,4 @@ def process_invoice_batch(pdf_paths):
 MIT License - Feel free to use this project for commercial or personal purposes.
 
 Demo Link:https://invoice-qc-service.vercel.app/ 
-Demo Video Link:https://drive.google.com/file/d/1xAwEInD8BuXCxUbOLF5_iaQz6sBHrUTO/view?usp=drive_link
+
